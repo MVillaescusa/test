@@ -34,7 +34,12 @@ h1 {
 
 @media only screen and (min-width: 1000px) {
   .container {
-    margin-top: 5vh;
+    margin-top: 10vh;
+  }
+}
+@media only screen and (min-width: 650px) {
+  h1 {
+    font-size: 6vw;
   }
 }
 
